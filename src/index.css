@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Fraunces", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-morning-50: #FAF7F2;
+  --color-morning-100: #F4EFE6;
+  --color-morning-200: #E5DDD0;
+  --color-morning-300: #D2C6B4;
+
+  --color-walnut-950: #1D140E;
+  --color-walnut-900: #291D15;
+  --color-walnut-800: #3C2C21;
+  --color-walnut-700: #544134;
+  --color-walnut-600: #6E594A;
+  --color-walnut-500: #8B7666;
+
+  --color-amber-700: #92400E;
+  --color-amber-600: #B45309;
+  --color-amber-500: #D97706;
+  --color-amber-100: #FEF3C7;
+  --color-amber-50: #FFFBEB;
+}
+
+@layer base {
+  :root {
+    color-scheme: light;
+    background-color: #FAF7F2;
+    color: #291D15;
+    font-family: var(--font-sans);
+  }
+
+  body {
+    margin: 0;
+    background-color: #FAF7F2;
+    color: #291D15;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, .font-display {
+    font-family: var(--font-display);
+  }
+
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
