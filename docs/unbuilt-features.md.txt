@@ -1,0 +1,51 @@
+
+# TRUEFOLIO – Features Not Yet Built
+
+This document records the features that are planned but not fully implemented in the current prototype.
+
+## 1. Live Authentication
+**Status:** Not implemented
+
+Student and faculty sign-in using real authenticated accounts is pending.
+
+**Reason:** Authentication integration and role-based session management are still to be completed.
+
+## 2. Live Database Integration
+**Status:** Database schema prepared; frontend integration pending.
+
+The Lovable Cloud database contains the planned seven-table structure and configured access policies. The deployed frontend currently uses browser localStorage instead.
+
+**Reason:** The frontend-to-database integration has not yet been completed and tested.
+
+## 3. Cloud Evidence Storage
+**Status:** Not implemented in the deployed frontend.
+
+Evidence handling currently works with local demo storage. Persistent cloud file upload and retrieval are pending.
+
+**Reason:** Secure storage integration and access validation are still required.
+
+## 4. Complete Backend APIs
+**Status:** Partially implemented.
+
+The Express backend currently provides a basic health-check endpoint. The application-specific APIs for activities, projects, profiles and reviews are pending.
+
+**Reason:** Backend business logic and database integration have not yet been completed.
+
+## 5. Multi-user End-to-End Testing
+**Status:** Pending.
+
+The complete workflow using separate authenticated student and faculty accounts against shared live data has not yet been validated.
+
+**Reason:** Live authentication and database integration must be completed first.
+
+## Future Development Plan
+
+1. Implement authentication and role-based access.
+2. Connect the frontend to the prepared database.
+3. Implement backend application APIs.
+4. Integrate secure cloud evidence storage.
+5. Perform end-to-end testing with student and faculty accounts.
+
+## Current Project Status
+
+TRUEFOLIO is a deployed, interactive frontend prototype with student and faculty demo workflows. It is not yet a fully integrated production application.

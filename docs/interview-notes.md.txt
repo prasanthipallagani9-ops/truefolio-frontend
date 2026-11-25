@@ -1,0 +1,44 @@
+# TRUEFOLIO – Interview Notes
+
+## Interview 1: Course Coordinator
+
+- **Date:** 16 September 2026
+- **Person interviewed:** Mr. Naveen 
+- **Role:** Course Coordinator, SRM University AP
+- **Participants:** Prasanthi Pallagani and Ujvala Bandi
+- **Interview stage:** Initial idea discussion, before further project development
+
+### Purpose of the Discussion
+
+We approached our course coordinator to explain our TRUEFOLIO idea and seek suggestions, feedback and possible improvements.
+
+### Problem Discussed
+
+We explained the challenge of limited faculty visibility into students' overall progress, activities and development.
+
+### Feedback and Suggestions Received
+
+The coordinator suggested incorporating AI capabilities into the platform.
+
+His suggestions included:
+
+1. **AI-based recommendations:** Providing students with relevant suggestions based on their existing work and activities. For example, recommending suitable hackathons or internship opportunities based on their progress and interests.
+2. **AI chatbot:** Including a chatbot-like feature to help students interact with the platform and receive guidance.
+
+### Key Takeaways
+
+- We gained a better understanding of the problem from a faculty point of view.
+- We recognised that the platform could go beyond simply maintaining student activity records.
+- AI-based recommendations could help students identify relevant opportunities based on their development.
+
+### Impact on Project Direction
+
+The discussion did not completely change our original idea, but it helped us understand the faculty perspective more clearly. It also introduced the possibility of adding AI-powered recommendations and a chatbot as future enhancements.
+
+### Direct Quote
+
+No verbatim quote recorded. The suggestions above are paraphrased from the discussion.
+
+### Evidence Status
+
+This document records one initial feedback discussion with the course coordinator. It is not a large-scale user study or a formal validation of the problem.

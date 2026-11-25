@@ -1,0 +1,49 @@
+# TRUEFOLIO – Problem Statement
+
+## Project Title
+TRUEFOLIO – Student Development Intelligence Platform
+
+## Problem Statement
+
+Students participate in a wide range of academic and extracurricular
+activities, including internships, competitive programming, research,
+hackathons, projects, certifications, open-source contributions and
+leadership initiatives.
+
+However, information about these achievements is often scattered
+across different platforms, documents and personal records. This
+makes it difficult for students to maintain a consolidated record
+of their development and supporting evidence.
+
+Faculty members may also lack a single, structured view of students'
+activities and achievements, making it harder to review submitted
+information and track student development.
+
+## Target Users
+
+1. Students who want to maintain a consolidated record of their
+   academic, technical and extracurricular development.
+2. Faculty members who need to review student activities and
+   supporting evidence.
+
+## Proposed Solution
+
+TRUEFOLIO is a student-development intelligence platform that allows
+students to record activities, maintain project information and
+submit supporting evidence. Faculty members can review submitted
+activities and approve them, request changes or reject them.
+
+## Core Objective
+
+To provide a structured platform that improves the visibility,
+documentation and review of student development.
+
+## Project Scope
+
+The current prototype demonstrates student and faculty workflows,
+including activity management, evidence handling, project records,
+student profiles and faculty reviews.
+
+The current deployed version uses browser-based demo storage.
+Live authentication and shared database integration are not yet
+connected.
